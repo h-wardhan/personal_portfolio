@@ -6,12 +6,12 @@ const Footer = () => {
   const socialLinks = [
     {
       icon: FaLinkedin,
-      href: 'https://www.linkedin.com/in/harshwardhan-singh-96a443301/?originalSubdomain=in',
+      href: 'https://www.linkedin.com/in/h-wardhan/',
       label: 'LinkedIn',
     },
     {
       icon: FaGithub,
-      href: 'https://github.com/Codewithharsh09',
+      href: 'https://github.com/h-wardhan',
       label: 'GitHub',
     },
     {
