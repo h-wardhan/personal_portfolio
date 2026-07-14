@@ -129,13 +129,13 @@ const Contact = () => {
       icon: FaLinkedin,
       label: 'LinkedIn',
       value: 'harshwardhan-singh',
-      link: 'https://www.linkedin.com/in/harshwardhan-singh-96a443301/?originalSubdomain=in',
+      link: 'https://www.linkedin.com/in/h-wardhan/',
     },
     {
       icon: FaGithub,
       label: 'GitHub',
-      value: 'Codewithharsh09',
-      link: 'https://github.com/Codewithharsh09',
+      value: 'h-wardhan',
+      link: 'https://github.com/h-wardhan',
     },
   ];
 
