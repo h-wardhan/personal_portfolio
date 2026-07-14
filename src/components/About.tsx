@@ -9,7 +9,7 @@ const About = () => {
 
   const handleDownloadResume = () => {
     const link = document.createElement('a');
-    link.href = '/Harshwardhan-Singh-Resume.pdf';
+    link.href = './Harshwardhan Resume.pdf';
     link.download = 'Harshwardhan-Singh-Resume.pdf';
     document.body.appendChild(link);
     link.click();
